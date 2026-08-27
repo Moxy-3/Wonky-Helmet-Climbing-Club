@@ -1,0 +1,1 @@
+Extract the folder and open index.html. Membership applications are prepared for wonkyhelmetclimbingclub@gmail.com.
