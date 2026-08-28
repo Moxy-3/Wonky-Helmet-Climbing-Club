@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /assets/member-of-the-month.jpg
+Disallow: /assets/member-of-the-month.png
